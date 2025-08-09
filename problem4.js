@@ -6,3 +6,4 @@ for(const product of products){
 comp_prodects[0]=99;
 console.log(products);
 console.log(comp_prodects);
+  // Output Original: [1, 2, 3] Copy: [99, 2, 3]
