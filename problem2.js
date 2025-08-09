@@ -7,4 +7,4 @@ for(let i = 0; i <numbers.length; i++){
 }
 
 console.log(Evenword)
-// [12, 98, 76, 46]
+//output[12, 98, 76, 46]
