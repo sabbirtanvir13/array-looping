@@ -4,3 +4,4 @@ for(var names of numbers){
     result+=names
 }
 console.log(result)
+// Output'TomTimTinTik'
