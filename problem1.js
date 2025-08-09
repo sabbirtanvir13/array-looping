@@ -6,4 +6,4 @@ const  reversed=[]
 
  }
  console.log( reversed)
- 
+  // OUTPUT ['tanvir', 'mohona', rupali', 'sabbir', 'ahona']
