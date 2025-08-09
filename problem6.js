@@ -6,3 +6,8 @@ const cricketRuns=[
 ]
 cricketRuns[1][0]=99
 console.log(cricketRuns)
+// output [
+//   [1, 2],
+//   [99, 4],
+//   [5, 6]
+// ]
